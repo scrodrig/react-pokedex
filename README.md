@@ -1,3 +1,6 @@
+> [!NOTE]  
+> Use legacy dependencies to run, it should work now woth node 18
+
 This project is react pokedex using TS
 ### `$ yarn install`
 Install all the necessary dependencies for run the project.
