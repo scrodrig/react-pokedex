@@ -1,9 +1,9 @@
 > [!NOTE]  
-> Use legacy dependencies to run, it should work now woth node 18
+> Use legacy dependencies to run; it should work now with node 18
 
-This project is build with react pokedex using TS (pure CSS approach)
+This project is built with react pokedex using TS (pure CSS approach)
 ### `$ yarn install`
-Install all the necessary dependencies for run the project.
+Install all the necessary dependencies to run the project.
 
 ### `$ yarn start`
 
